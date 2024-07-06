@@ -1,0 +1,6 @@
+*.html
+*.meta
+data_*
+*.gz
+*batch
+*-ubyte
