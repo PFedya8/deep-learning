@@ -4,3 +4,16 @@ data_*
 *.gz
 *batch
 *-ubyte
+
+*.jpg
+*.pth
+*.csv
+*.gif
+*.zip
+*.png
+*.jpeg
+*.pkl
+*.txt
+*.bmp
+*.xlsx
+*.rar
