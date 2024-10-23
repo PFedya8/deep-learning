@@ -17,3 +17,6 @@ data_*
 *.bmp
 *.xlsx
 *.rar
+*.pyc
+*.npz
+*.pt
